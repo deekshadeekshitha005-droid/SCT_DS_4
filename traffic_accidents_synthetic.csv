@@ -1,0 +1,501 @@
+Accident_ID,Date,Time_of_Day,Weather_Condition,Road_Condition,City,Severity,Vehicles_Involved,Injuries
+A0001,2025-11-24,Night,Clear,Dry,Mysuru,2,1,8
+A0002,2025-02-14,Evening,Clear,Dry,Mysuru,2,5,0
+A0003,2025-10-15,Morning,Fog,Wet,Mandya,2,4,4
+A0004,2025-01-04,Morning,Rain,Wet,Mysuru,2,3,1
+A0005,2025-02-17,Afternoon,Clear,Wet,Hassan,3,1,7
+A0006,2025-10-02,Night,Snow,Wet,Hassan,3,5,5
+A0007,2025-10-23,Morning,Fog,Dry,Mysuru,3,1,3
+A0008,2025-02-21,Afternoon,Clear,Dry,Tumakuru,2,3,5
+A0009,2025-04-18,Night,Clear,Under Construction,Bengaluru,2,5,3
+A0010,2025-03-25,Afternoon,Clear,Under Construction,Hassan,2,3,0
+A0011,2025-04-28,Night,Cloudy,Dry,Bengaluru,2,5,5
+A0012,2025-04-19,Evening,Rain,Icy,Mandya,2,3,2
+A0013,2025-05-07,Night,Rain,Wet,Hassan,4,5,6
+A0014,2025-07-05,Morning,Snow,Dry,Mandya,1,1,1
+A0015,2025-03-20,Evening,Clear,Dry,Hassan,1,4,6
+A0016,2025-11-02,Afternoon,Rain,Under Construction,Bengaluru,1,5,4
+A0017,2025-11-25,Morning,Clear,Dry,Mandya,1,3,8
+A0018,2025-04-02,Afternoon,Cloudy,Icy,Tumakuru,2,2,5
+A0019,2025-03-24,Evening,Snow,Under Construction,Bengaluru,3,4,0
+A0020,2025-02-27,Morning,Cloudy,Wet,Tumakuru,2,1,3
+A0021,2025-10-18,Night,Clear,Dry,Bengaluru,2,2,7
+A0022,2025-10-09,Morning,Clear,Icy,Mandya,2,5,3
+A0023,2025-06-09,Afternoon,Snow,Wet,Mandya,4,1,3
+A0024,2025-04-26,Night,Clear,Dry,Mysuru,2,1,1
+A0025,2025-12-29,Evening,Clear,Dry,Bengaluru,3,1,8
+A0026,2025-05-02,Morning,Rain,Wet,Mysuru,4,2,7
+A0027,2025-07-28,Morning,Clear,Dry,Tumakuru,4,4,7
+A0028,2025-01-28,Night,Rain,Wet,Bengaluru,4,3,1
+A0029,2025-05-08,Morning,Clear,Dry,Mandya,2,3,7
+A0030,2025-05-08,Night,Clear,Icy,Hassan,1,1,8
+A0031,2025-01-08,Night,Cloudy,Wet,Mysuru,4,4,7
+A0032,2025-04-20,Afternoon,Cloudy,Dry,Bengaluru,4,3,7
+A0033,2025-05-27,Afternoon,Rain,Wet,Hassan,4,2,3
+A0034,2025-06-01,Morning,Snow,Wet,Hassan,1,3,0
+A0035,2025-01-26,Evening,Rain,Under Construction,Hassan,2,1,8
+A0036,2025-02-11,Morning,Clear,Dry,Mysuru,4,1,3
+A0037,2025-10-24,Evening,Clear,Dry,Hassan,3,3,3
+A0038,2025-12-09,Night,Clear,Dry,Mysuru,3,4,5
+A0039,2025-02-07,Night,Rain,Under Construction,Bengaluru,1,5,3
+A0040,2025-09-17,Morning,Clear,Dry,Bengaluru,2,3,4
+A0041,2025-03-22,Afternoon,Cloudy,Wet,Hassan,1,5,4
+A0042,2025-12-06,Night,Cloudy,Dry,Bengaluru,1,5,2
+A0043,2025-05-20,Morning,Rain,Wet,Mysuru,3,5,7
+A0044,2025-05-09,Night,Clear,Dry,Tumakuru,1,1,5
+A0045,2025-03-08,Evening,Snow,Dry,Mandya,4,5,0
+A0046,2025-02-27,Night,Cloudy,Dry,Mysuru,1,3,8
+A0047,2025-03-17,Afternoon,Clear,Dry,Bengaluru,3,2,3
+A0048,2025-12-08,Night,Clear,Dry,Mandya,2,2,2
+A0049,2025-04-01,Afternoon,Clear,Wet,Tumakuru,4,2,4
+A0050,2025-03-23,Night,Clear,Icy,Mandya,2,2,7
+A0051,2025-06-29,Morning,Cloudy,Icy,Mysuru,1,2,6
+A0052,2025-06-18,Morning,Cloudy,Under Construction,Tumakuru,3,5,6
+A0053,2025-12-14,Evening,Clear,Dry,Tumakuru,2,5,4
+A0054,2025-01-20,Night,Rain,Wet,Tumakuru,4,5,8
+A0055,2025-03-01,Afternoon,Cloudy,Dry,Bengaluru,4,1,8
+A0056,2025-10-03,Night,Fog,Wet,Mysuru,3,4,1
+A0057,2025-12-07,Morning,Rain,Wet,Bengaluru,3,5,4
+A0058,2025-12-08,Afternoon,Clear,Dry,Hassan,2,2,6
+A0059,2025-12-07,Afternoon,Rain,Under Construction,Hassan,3,4,8
+A0060,2025-01-01,Morning,Clear,Dry,Hassan,3,4,7
+A0061,2025-08-15,Night,Clear,Dry,Mysuru,1,3,8
+A0062,2025-12-06,Evening,Rain,Dry,Mysuru,3,2,3
+A0063,2025-03-17,Night,Clear,Under Construction,Hassan,1,4,6
+A0064,2025-11-19,Evening,Clear,Dry,Mandya,4,2,2
+A0065,2025-12-02,Night,Clear,Wet,Bengaluru,4,2,2
+A0066,2025-12-23,Afternoon,Rain,Wet,Bengaluru,4,2,7
+A0067,2025-12-08,Afternoon,Snow,Wet,Mandya,4,5,7
+A0068,2025-03-23,Night,Cloudy,Dry,Mysuru,3,5,7
+A0069,2025-11-17,Morning,Clear,Dry,Tumakuru,2,3,5
+A0070,2025-06-13,Evening,Clear,Dry,Mandya,2,2,1
+A0071,2025-08-01,Afternoon,Clear,Dry,Bengaluru,2,4,6
+A0072,2025-10-27,Night,Clear,Icy,Hassan,4,4,0
+A0073,2025-06-30,Morning,Fog,Icy,Mandya,2,4,3
+A0074,2025-05-20,Afternoon,Rain,Wet,Mandya,2,4,2
+A0075,2025-11-15,Evening,Clear,Dry,Hassan,1,1,6
+A0076,2025-03-11,Afternoon,Clear,Dry,Tumakuru,2,4,5
+A0077,2025-06-22,Afternoon,Clear,Under Construction,Mandya,3,1,7
+A0078,2025-01-10,Night,Rain,Under Construction,Tumakuru,2,1,0
+A0079,2025-01-16,Morning,Clear,Dry,Mysuru,2,2,7
+A0080,2025-12-09,Night,Rain,Wet,Tumakuru,3,2,1
+A0081,2025-03-25,Morning,Clear,Dry,Tumakuru,4,4,3
+A0082,2025-02-08,Evening,Rain,Wet,Bengaluru,3,5,1
+A0083,2025-10-17,Night,Clear,Dry,Tumakuru,1,5,5
+A0084,2025-01-07,Afternoon,Cloudy,Dry,Tumakuru,4,2,6
+A0085,2025-04-01,Night,Rain,Wet,Hassan,4,4,6
+A0086,2025-10-31,Morning,Clear,Dry,Bengaluru,3,4,3
+A0087,2025-08-26,Evening,Rain,Wet,Bengaluru,4,3,2
+A0088,2025-09-07,Morning,Clear,Dry,Tumakuru,3,5,0
+A0089,2025-09-22,Morning,Clear,Wet,Mandya,2,4,7
+A0090,2025-08-18,Night,Clear,Dry,Mysuru,3,5,5
+A0091,2025-08-31,Evening,Rain,Wet,Hassan,3,3,7
+A0092,2025-05-19,Morning,Clear,Dry,Mysuru,3,1,8
+A0093,2025-12-20,Morning,Clear,Wet,Tumakuru,3,1,3
+A0094,2025-06-01,Morning,Clear,Dry,Hassan,2,3,0
+A0095,2025-01-28,Evening,Clear,Under Construction,Mandya,1,1,4
+A0096,2025-08-29,Afternoon,Clear,Dry,Bengaluru,3,4,1
+A0097,2025-02-03,Afternoon,Rain,Wet,Bengaluru,2,2,4
+A0098,2025-02-13,Morning,Clear,Wet,Hassan,2,5,6
+A0099,2025-08-19,Afternoon,Clear,Dry,Mandya,3,5,0
+A0100,2025-11-09,Night,Clear,Wet,Mysuru,3,1,2
+A0101,2025-05-03,Morning,Rain,Dry,Mandya,4,5,7
+A0102,2025-05-30,Night,Clear,Wet,Mandya,1,2,4
+A0103,2025-11-17,Evening,Rain,Under Construction,Mandya,1,5,3
+A0104,2025-11-28,Night,Cloudy,Wet,Bengaluru,1,2,4
+A0105,2025-11-01,Night,Cloudy,Under Construction,Mandya,1,4,4
+A0106,2025-12-25,Afternoon,Cloudy,Dry,Mandya,4,1,0
+A0107,2025-08-10,Night,Clear,Dry,Bengaluru,2,5,0
+A0108,2025-12-11,Morning,Rain,Icy,Mysuru,4,5,7
+A0109,2025-05-23,Morning,Snow,Wet,Mandya,1,4,5
+A0110,2025-07-29,Morning,Clear,Dry,Mysuru,3,4,7
+A0111,2025-05-28,Night,Cloudy,Wet,Hassan,1,4,1
+A0112,2025-06-11,Morning,Clear,Under Construction,Mandya,1,5,7
+A0113,2025-07-31,Night,Clear,Dry,Mandya,4,1,3
+A0114,2025-05-17,Evening,Clear,Dry,Mandya,1,1,3
+A0115,2025-12-30,Morning,Clear,Dry,Mandya,1,2,1
+A0116,2025-08-25,Night,Rain,Dry,Tumakuru,3,4,7
+A0117,2025-08-30,Morning,Rain,Dry,Mysuru,2,1,4
+A0118,2025-08-01,Morning,Cloudy,Dry,Bengaluru,3,3,7
+A0119,2025-03-18,Afternoon,Rain,Wet,Hassan,4,4,5
+A0120,2025-04-07,Night,Clear,Dry,Mandya,1,3,7
+A0121,2025-12-28,Afternoon,Clear,Dry,Mysuru,4,1,2
+A0122,2025-09-15,Evening,Clear,Dry,Mandya,1,5,7
+A0123,2025-01-08,Night,Clear,Icy,Mysuru,1,4,4
+A0124,2025-06-23,Evening,Rain,Wet,Tumakuru,4,3,7
+A0125,2025-10-05,Night,Rain,Wet,Tumakuru,2,1,6
+A0126,2025-02-20,Evening,Fog,Dry,Mysuru,3,1,0
+A0127,2025-06-16,Night,Clear,Dry,Mysuru,2,5,6
+A0128,2025-10-17,Night,Cloudy,Dry,Bengaluru,4,5,3
+A0129,2025-09-12,Evening,Clear,Dry,Tumakuru,4,3,0
+A0130,2025-08-27,Morning,Rain,Dry,Mandya,3,5,4
+A0131,2025-11-24,Afternoon,Rain,Wet,Tumakuru,2,4,7
+A0132,2025-02-24,Morning,Clear,Dry,Tumakuru,3,1,6
+A0133,2025-05-21,Night,Rain,Wet,Bengaluru,4,3,3
+A0134,2025-11-07,Morning,Clear,Dry,Tumakuru,2,1,0
+A0135,2025-06-08,Afternoon,Clear,Dry,Mysuru,1,3,5
+A0136,2025-08-01,Morning,Clear,Wet,Tumakuru,3,2,4
+A0137,2025-09-04,Morning,Fog,Wet,Bengaluru,4,1,2
+A0138,2025-04-26,Night,Fog,Under Construction,Hassan,3,1,6
+A0139,2025-01-08,Morning,Rain,Wet,Tumakuru,4,3,1
+A0140,2025-12-12,Morning,Rain,Wet,Hassan,3,5,3
+A0141,2025-11-28,Night,Rain,Wet,Tumakuru,4,1,2
+A0142,2025-01-24,Night,Clear,Dry,Bengaluru,2,5,2
+A0143,2025-07-18,Afternoon,Clear,Under Construction,Hassan,4,5,2
+A0144,2025-08-01,Evening,Clear,Dry,Mandya,3,1,5
+A0145,2025-04-22,Afternoon,Clear,Dry,Tumakuru,1,3,8
+A0146,2025-11-27,Morning,Clear,Dry,Bengaluru,4,1,3
+A0147,2025-11-25,Evening,Rain,Dry,Tumakuru,2,2,3
+A0148,2025-02-05,Evening,Clear,Dry,Mysuru,3,2,0
+A0149,2025-05-22,Night,Snow,Wet,Mysuru,1,1,2
+A0150,2025-01-08,Morning,Cloudy,Dry,Tumakuru,1,2,4
+A0151,2025-01-27,Night,Fog,Wet,Bengaluru,4,4,5
+A0152,2025-09-20,Evening,Clear,Dry,Hassan,1,5,4
+A0153,2025-08-23,Evening,Snow,Dry,Mandya,4,4,1
+A0154,2025-09-09,Night,Cloudy,Dry,Bengaluru,3,5,2
+A0155,2025-02-03,Night,Clear,Dry,Hassan,3,4,8
+A0156,2025-05-31,Afternoon,Rain,Wet,Bengaluru,2,4,7
+A0157,2025-04-27,Afternoon,Clear,Dry,Mandya,1,3,6
+A0158,2025-06-10,Night,Clear,Under Construction,Mandya,1,1,1
+A0159,2025-02-17,Afternoon,Clear,Wet,Mysuru,1,5,8
+A0160,2025-10-15,Morning,Rain,Wet,Mandya,1,3,4
+A0161,2025-06-30,Night,Rain,Wet,Mandya,2,1,5
+A0162,2025-10-12,Morning,Clear,Dry,Mysuru,4,5,8
+A0163,2025-01-14,Evening,Cloudy,Wet,Tumakuru,1,2,4
+A0164,2025-12-26,Morning,Cloudy,Dry,Mysuru,2,5,6
+A0165,2025-02-05,Night,Fog,Under Construction,Bengaluru,2,4,6
+A0166,2025-08-21,Morning,Clear,Dry,Tumakuru,1,1,2
+A0167,2025-03-22,Evening,Clear,Dry,Mandya,4,4,7
+A0168,2025-08-01,Morning,Clear,Dry,Tumakuru,4,1,4
+A0169,2025-12-14,Night,Rain,Wet,Tumakuru,1,2,6
+A0170,2025-11-03,Night,Clear,Dry,Mysuru,2,3,4
+A0171,2025-06-17,Night,Clear,Wet,Mysuru,2,4,8
+A0172,2025-12-27,Morning,Rain,Icy,Tumakuru,1,4,0
+A0173,2025-08-12,Night,Rain,Dry,Tumakuru,4,5,6
+A0174,2025-12-30,Evening,Clear,Dry,Bengaluru,3,2,7
+A0175,2025-12-20,Morning,Clear,Wet,Mysuru,4,5,6
+A0176,2025-09-26,Night,Clear,Dry,Tumakuru,2,3,2
+A0177,2025-02-09,Afternoon,Rain,Wet,Mysuru,3,3,2
+A0178,2025-05-01,Night,Clear,Dry,Hassan,2,1,2
+A0179,2025-11-18,Afternoon,Rain,Wet,Hassan,4,5,5
+A0180,2025-11-18,Morning,Clear,Dry,Mandya,3,3,0
+A0181,2025-06-30,Afternoon,Clear,Dry,Bengaluru,1,3,4
+A0182,2025-02-09,Evening,Cloudy,Icy,Hassan,4,4,8
+A0183,2025-01-22,Afternoon,Cloudy,Dry,Mysuru,3,5,7
+A0184,2025-09-14,Night,Snow,Wet,Tumakuru,1,5,2
+A0185,2025-01-21,Morning,Fog,Under Construction,Hassan,2,3,5
+A0186,2025-05-25,Afternoon,Clear,Dry,Hassan,1,3,1
+A0187,2025-06-18,Night,Rain,Wet,Tumakuru,2,3,1
+A0188,2025-10-26,Night,Clear,Dry,Mandya,2,5,1
+A0189,2025-06-08,Evening,Clear,Wet,Mysuru,1,4,8
+A0190,2025-07-05,Night,Clear,Dry,Mysuru,3,4,3
+A0191,2025-04-26,Night,Clear,Dry,Bengaluru,1,3,2
+A0192,2025-11-02,Afternoon,Clear,Dry,Hassan,2,4,0
+A0193,2025-07-30,Morning,Rain,Wet,Mandya,3,4,3
+A0194,2025-10-01,Morning,Clear,Wet,Mandya,2,3,7
+A0195,2025-08-25,Morning,Fog,Wet,Mandya,2,2,2
+A0196,2025-05-09,Night,Rain,Icy,Hassan,1,5,1
+A0197,2025-05-26,Night,Fog,Wet,Hassan,2,4,1
+A0198,2025-04-24,Afternoon,Cloudy,Under Construction,Mandya,1,4,8
+A0199,2025-07-11,Morning,Clear,Dry,Mysuru,1,3,1
+A0200,2025-11-29,Morning,Cloudy,Dry,Tumakuru,4,2,7
+A0201,2025-08-18,Evening,Clear,Dry,Tumakuru,2,2,8
+A0202,2025-11-08,Afternoon,Clear,Wet,Mysuru,3,1,0
+A0203,2025-05-03,Afternoon,Rain,Wet,Bengaluru,1,4,8
+A0204,2025-01-09,Evening,Rain,Wet,Mysuru,3,4,0
+A0205,2025-11-11,Morning,Clear,Dry,Bengaluru,3,1,8
+A0206,2025-10-06,Afternoon,Cloudy,Dry,Bengaluru,4,4,0
+A0207,2025-11-22,Afternoon,Snow,Wet,Bengaluru,3,1,5
+A0208,2025-05-04,Night,Rain,Dry,Hassan,3,2,0
+A0209,2025-06-30,Evening,Clear,Dry,Mandya,4,2,2
+A0210,2025-02-02,Night,Fog,Wet,Tumakuru,2,1,3
+A0211,2025-01-22,Morning,Cloudy,Dry,Hassan,4,3,0
+A0212,2025-11-28,Morning,Clear,Icy,Bengaluru,3,3,1
+A0213,2025-07-08,Afternoon,Cloudy,Wet,Mandya,3,2,7
+A0214,2025-12-21,Afternoon,Clear,Wet,Tumakuru,1,4,1
+A0215,2025-08-09,Evening,Snow,Dry,Tumakuru,3,1,1
+A0216,2025-06-17,Night,Clear,Dry,Mandya,2,4,5
+A0217,2025-08-17,Night,Fog,Under Construction,Hassan,4,3,0
+A0218,2025-02-08,Night,Rain,Wet,Mysuru,1,2,7
+A0219,2025-01-18,Night,Clear,Wet,Tumakuru,3,4,0
+A0220,2025-11-06,Night,Rain,Under Construction,Tumakuru,4,1,2
+A0221,2025-09-29,Morning,Clear,Dry,Mysuru,1,1,2
+A0222,2025-09-13,Afternoon,Clear,Dry,Tumakuru,3,4,3
+A0223,2025-11-10,Morning,Rain,Under Construction,Mysuru,1,2,1
+A0224,2025-08-20,Morning,Cloudy,Dry,Bengaluru,3,3,1
+A0225,2025-10-09,Evening,Clear,Dry,Mysuru,2,3,8
+A0226,2025-04-25,Night,Snow,Icy,Mysuru,4,1,5
+A0227,2025-10-11,Evening,Clear,Wet,Hassan,2,5,1
+A0228,2025-02-03,Morning,Clear,Wet,Mandya,4,4,1
+A0229,2025-03-06,Morning,Rain,Wet,Hassan,3,2,8
+A0230,2025-11-24,Evening,Clear,Under Construction,Mandya,1,1,8
+A0231,2025-03-20,Morning,Clear,Dry,Mysuru,3,5,4
+A0232,2025-02-10,Morning,Clear,Under Construction,Tumakuru,2,3,8
+A0233,2025-02-17,Afternoon,Rain,Wet,Hassan,2,2,5
+A0234,2025-10-16,Night,Cloudy,Dry,Bengaluru,3,2,6
+A0235,2025-11-13,Evening,Clear,Icy,Hassan,3,3,7
+A0236,2025-05-06,Night,Clear,Dry,Bengaluru,2,4,6
+A0237,2025-09-05,Afternoon,Clear,Dry,Tumakuru,3,3,6
+A0238,2025-03-08,Morning,Rain,Dry,Mysuru,4,1,4
+A0239,2025-08-19,Morning,Clear,Dry,Mandya,4,2,2
+A0240,2025-06-17,Evening,Fog,Dry,Mysuru,4,5,7
+A0241,2025-09-13,Morning,Rain,Dry,Mandya,4,2,3
+A0242,2025-10-26,Morning,Clear,Dry,Hassan,4,3,8
+A0243,2025-01-05,Night,Clear,Icy,Tumakuru,4,3,0
+A0244,2025-07-25,Night,Rain,Dry,Hassan,3,1,6
+A0245,2025-09-16,Afternoon,Fog,Wet,Hassan,1,2,1
+A0246,2025-07-21,Morning,Cloudy,Dry,Tumakuru,2,2,8
+A0247,2025-07-25,Afternoon,Clear,Dry,Tumakuru,4,5,7
+A0248,2025-03-18,Evening,Cloudy,Dry,Hassan,3,2,6
+A0249,2025-11-12,Night,Cloudy,Dry,Hassan,4,5,4
+A0250,2025-09-01,Night,Clear,Dry,Mandya,3,1,7
+A0251,2025-05-16,Evening,Cloudy,Wet,Hassan,2,1,7
+A0252,2025-03-29,Afternoon,Rain,Wet,Mandya,2,2,0
+A0253,2025-10-21,Night,Clear,Dry,Tumakuru,4,2,6
+A0254,2025-12-20,Morning,Clear,Wet,Mandya,1,2,8
+A0255,2025-04-17,Evening,Clear,Dry,Hassan,4,3,2
+A0256,2025-08-24,Evening,Clear,Dry,Tumakuru,4,2,3
+A0257,2025-05-23,Evening,Clear,Under Construction,Tumakuru,3,2,7
+A0258,2025-06-12,Afternoon,Clear,Under Construction,Tumakuru,3,1,8
+A0259,2025-07-14,Afternoon,Cloudy,Under Construction,Mysuru,3,1,4
+A0260,2025-02-10,Morning,Cloudy,Dry,Mandya,2,2,8
+A0261,2025-05-19,Evening,Rain,Dry,Hassan,2,2,0
+A0262,2025-12-09,Afternoon,Clear,Dry,Bengaluru,4,3,7
+A0263,2025-02-21,Night,Fog,Dry,Hassan,2,4,7
+A0264,2025-09-02,Evening,Clear,Under Construction,Tumakuru,3,1,1
+A0265,2025-11-30,Evening,Clear,Wet,Bengaluru,2,4,2
+A0266,2025-01-19,Afternoon,Cloudy,Dry,Tumakuru,1,1,4
+A0267,2025-10-18,Evening,Clear,Under Construction,Tumakuru,4,5,8
+A0268,2025-09-10,Night,Cloudy,Dry,Mysuru,1,3,2
+A0269,2025-08-23,Evening,Clear,Dry,Tumakuru,3,5,3
+A0270,2025-03-31,Evening,Cloudy,Icy,Mandya,3,1,6
+A0271,2025-12-09,Night,Clear,Dry,Tumakuru,2,1,4
+A0272,2025-07-16,Morning,Clear,Dry,Tumakuru,3,5,0
+A0273,2025-05-14,Evening,Clear,Dry,Bengaluru,4,3,2
+A0274,2025-07-27,Night,Rain,Icy,Tumakuru,1,3,5
+A0275,2025-11-11,Morning,Clear,Dry,Mysuru,4,5,5
+A0276,2025-08-01,Night,Rain,Wet,Hassan,2,2,1
+A0277,2025-09-27,Afternoon,Rain,Wet,Hassan,1,1,8
+A0278,2025-09-16,Morning,Rain,Dry,Tumakuru,4,1,3
+A0279,2025-10-26,Afternoon,Clear,Dry,Bengaluru,4,2,8
+A0280,2025-08-01,Afternoon,Rain,Wet,Tumakuru,1,4,4
+A0281,2025-01-02,Night,Clear,Dry,Mandya,3,1,8
+A0282,2025-01-31,Night,Snow,Wet,Tumakuru,4,2,2
+A0283,2025-11-25,Night,Rain,Wet,Mandya,4,4,6
+A0284,2025-02-11,Night,Snow,Icy,Mysuru,3,1,2
+A0285,2025-10-03,Afternoon,Rain,Wet,Mysuru,1,1,4
+A0286,2025-08-26,Night,Fog,Wet,Mandya,2,2,7
+A0287,2025-06-27,Night,Clear,Under Construction,Bengaluru,1,4,0
+A0288,2025-05-04,Morning,Clear,Dry,Mandya,1,2,0
+A0289,2025-07-25,Afternoon,Clear,Dry,Bengaluru,2,5,4
+A0290,2025-04-30,Night,Rain,Wet,Tumakuru,2,3,2
+A0291,2025-12-05,Afternoon,Clear,Dry,Bengaluru,2,4,8
+A0292,2025-09-11,Night,Snow,Under Construction,Mandya,3,4,6
+A0293,2025-03-18,Morning,Clear,Wet,Mandya,2,2,4
+A0294,2025-12-29,Night,Cloudy,Under Construction,Hassan,4,4,8
+A0295,2025-09-29,Night,Clear,Dry,Tumakuru,1,4,5
+A0296,2025-02-17,Evening,Fog,Dry,Tumakuru,4,5,0
+A0297,2025-02-07,Morning,Cloudy,Dry,Hassan,2,4,3
+A0298,2025-06-20,Morning,Snow,Dry,Mysuru,1,4,3
+A0299,2025-12-23,Evening,Fog,Wet,Mysuru,3,3,6
+A0300,2025-08-27,Evening,Rain,Wet,Tumakuru,4,4,1
+A0301,2025-08-29,Morning,Cloudy,Dry,Mandya,1,5,3
+A0302,2025-03-16,Night,Clear,Under Construction,Hassan,4,3,2
+A0303,2025-04-11,Morning,Clear,Dry,Mysuru,4,5,5
+A0304,2025-05-12,Afternoon,Snow,Wet,Mandya,4,2,5
+A0305,2025-03-28,Night,Fog,Wet,Hassan,1,5,0
+A0306,2025-02-08,Night,Clear,Dry,Mysuru,2,1,2
+A0307,2025-01-05,Morning,Rain,Wet,Hassan,4,4,0
+A0308,2025-01-04,Evening,Rain,Dry,Hassan,3,5,4
+A0309,2025-01-09,Afternoon,Cloudy,Dry,Mysuru,1,1,8
+A0310,2025-03-18,Morning,Clear,Dry,Tumakuru,3,4,1
+A0311,2025-07-11,Afternoon,Rain,Wet,Mysuru,3,1,0
+A0312,2025-02-17,Afternoon,Clear,Dry,Bengaluru,1,2,1
+A0313,2025-09-13,Afternoon,Rain,Wet,Bengaluru,1,2,3
+A0314,2025-12-21,Evening,Rain,Dry,Bengaluru,3,5,0
+A0315,2025-04-02,Morning,Clear,Dry,Mysuru,4,1,4
+A0316,2025-03-25,Evening,Clear,Wet,Mandya,3,4,2
+A0317,2025-12-19,Night,Clear,Wet,Tumakuru,1,1,6
+A0318,2025-04-29,Night,Clear,Wet,Hassan,4,3,0
+A0319,2025-11-21,Morning,Cloudy,Dry,Mysuru,3,5,6
+A0320,2025-08-10,Morning,Rain,Wet,Bengaluru,3,2,1
+A0321,2025-02-12,Morning,Clear,Wet,Mysuru,4,3,5
+A0322,2025-02-24,Night,Clear,Dry,Tumakuru,3,1,2
+A0323,2025-02-14,Morning,Clear,Dry,Hassan,4,1,0
+A0324,2025-02-15,Morning,Rain,Wet,Tumakuru,4,1,4
+A0325,2025-07-31,Afternoon,Fog,Wet,Hassan,2,5,8
+A0326,2025-03-28,Night,Clear,Dry,Tumakuru,3,4,2
+A0327,2025-02-02,Morning,Clear,Dry,Mandya,1,3,4
+A0328,2025-05-07,Night,Rain,Wet,Mysuru,4,1,2
+A0329,2025-06-05,Night,Cloudy,Dry,Hassan,4,3,7
+A0330,2025-06-21,Afternoon,Cloudy,Icy,Hassan,2,3,5
+A0331,2025-11-05,Night,Clear,Dry,Mandya,3,3,7
+A0332,2025-10-22,Morning,Clear,Dry,Mandya,3,1,3
+A0333,2025-10-31,Evening,Clear,Wet,Bengaluru,4,2,7
+A0334,2025-05-30,Night,Clear,Wet,Mandya,4,2,4
+A0335,2025-05-04,Morning,Rain,Wet,Mandya,1,4,7
+A0336,2025-10-26,Afternoon,Rain,Under Construction,Mandya,1,3,8
+A0337,2025-11-01,Evening,Cloudy,Dry,Mysuru,3,2,0
+A0338,2025-10-16,Evening,Rain,Wet,Tumakuru,4,1,0
+A0339,2025-02-20,Morning,Clear,Wet,Hassan,2,4,5
+A0340,2025-07-20,Afternoon,Fog,Wet,Hassan,2,3,0
+A0341,2025-09-05,Night,Clear,Under Construction,Bengaluru,1,2,5
+A0342,2025-06-09,Morning,Rain,Wet,Mandya,3,4,1
+A0343,2025-08-13,Night,Rain,Wet,Tumakuru,1,1,0
+A0344,2025-06-25,Evening,Clear,Wet,Mysuru,2,5,2
+A0345,2025-06-19,Evening,Clear,Dry,Mandya,2,2,6
+A0346,2025-07-22,Night,Fog,Icy,Mandya,4,4,0
+A0347,2025-12-27,Morning,Clear,Wet,Bengaluru,1,5,2
+A0348,2025-07-07,Morning,Clear,Dry,Mandya,3,5,6
+A0349,2025-11-09,Afternoon,Rain,Wet,Mandya,2,3,1
+A0350,2025-12-11,Night,Clear,Dry,Bengaluru,2,3,2
+A0351,2025-09-19,Afternoon,Clear,Dry,Mandya,4,2,7
+A0352,2025-11-22,Evening,Rain,Wet,Mysuru,2,4,4
+A0353,2025-03-13,Morning,Clear,Dry,Bengaluru,3,1,7
+A0354,2025-03-11,Morning,Cloudy,Under Construction,Hassan,4,4,7
+A0355,2025-08-01,Night,Cloudy,Dry,Bengaluru,1,2,4
+A0356,2025-01-17,Morning,Clear,Dry,Mandya,4,5,8
+A0357,2025-02-27,Evening,Clear,Wet,Tumakuru,1,4,8
+A0358,2025-04-22,Afternoon,Clear,Wet,Mysuru,3,1,7
+A0359,2025-05-15,Morning,Cloudy,Dry,Bengaluru,2,2,5
+A0360,2025-12-30,Evening,Rain,Dry,Mysuru,2,2,0
+A0361,2025-10-19,Morning,Rain,Wet,Mysuru,3,3,4
+A0362,2025-10-21,Morning,Snow,Wet,Bengaluru,2,4,0
+A0363,2025-05-22,Evening,Clear,Icy,Mysuru,2,3,3
+A0364,2025-12-13,Afternoon,Rain,Wet,Tumakuru,4,4,7
+A0365,2025-02-08,Evening,Cloudy,Wet,Mandya,3,3,7
+A0366,2025-09-07,Morning,Rain,Icy,Bengaluru,4,3,1
+A0367,2025-10-01,Afternoon,Clear,Dry,Mysuru,4,3,5
+A0368,2025-05-26,Morning,Rain,Dry,Mandya,3,1,0
+A0369,2025-02-20,Evening,Cloudy,Dry,Bengaluru,2,4,7
+A0370,2025-01-01,Afternoon,Clear,Dry,Mysuru,3,2,4
+A0371,2025-02-17,Evening,Clear,Dry,Mysuru,1,4,4
+A0372,2025-12-25,Morning,Clear,Dry,Bengaluru,1,2,7
+A0373,2025-02-09,Night,Rain,Wet,Mandya,1,1,5
+A0374,2025-03-03,Afternoon,Rain,Wet,Mysuru,4,1,1
+A0375,2025-02-22,Morning,Clear,Dry,Mandya,2,2,1
+A0376,2025-09-29,Evening,Clear,Dry,Mandya,3,2,2
+A0377,2025-07-30,Evening,Rain,Icy,Bengaluru,1,2,1
+A0378,2025-10-29,Night,Clear,Under Construction,Tumakuru,2,2,4
+A0379,2025-11-27,Night,Clear,Dry,Hassan,3,1,4
+A0380,2025-04-16,Afternoon,Rain,Dry,Mandya,3,1,3
+A0381,2025-09-11,Afternoon,Clear,Dry,Hassan,1,5,0
+A0382,2025-07-04,Morning,Clear,Icy,Hassan,4,3,8
+A0383,2025-12-16,Morning,Fog,Under Construction,Bengaluru,1,5,1
+A0384,2025-01-08,Morning,Clear,Under Construction,Mandya,3,5,6
+A0385,2025-08-05,Night,Clear,Dry,Hassan,2,3,1
+A0386,2025-06-08,Night,Rain,Wet,Mysuru,3,4,1
+A0387,2025-06-08,Night,Clear,Under Construction,Mysuru,1,2,1
+A0388,2025-08-11,Night,Rain,Wet,Tumakuru,2,1,0
+A0389,2025-12-29,Night,Fog,Dry,Tumakuru,3,2,5
+A0390,2025-03-06,Night,Cloudy,Dry,Bengaluru,1,3,6
+A0391,2025-05-20,Afternoon,Clear,Wet,Hassan,1,4,7
+A0392,2025-09-19,Morning,Clear,Icy,Mysuru,3,2,4
+A0393,2025-02-22,Evening,Rain,Dry,Hassan,1,1,0
+A0394,2025-05-06,Night,Rain,Wet,Mysuru,2,1,8
+A0395,2025-12-02,Afternoon,Clear,Dry,Tumakuru,3,1,5
+A0396,2025-03-03,Afternoon,Rain,Dry,Mysuru,1,4,1
+A0397,2025-08-27,Morning,Fog,Wet,Bengaluru,4,1,5
+A0398,2025-04-13,Morning,Rain,Wet,Hassan,2,4,5
+A0399,2025-10-30,Afternoon,Snow,Icy,Hassan,2,2,0
+A0400,2025-07-29,Night,Clear,Dry,Bengaluru,3,1,6
+A0401,2025-06-07,Night,Clear,Under Construction,Mandya,4,1,2
+A0402,2025-12-31,Morning,Clear,Under Construction,Hassan,4,3,7
+A0403,2025-02-13,Evening,Clear,Dry,Mandya,1,5,0
+A0404,2025-08-11,Night,Snow,Wet,Tumakuru,3,4,5
+A0405,2025-06-12,Afternoon,Clear,Dry,Mysuru,2,5,1
+A0406,2025-03-21,Night,Clear,Dry,Mandya,1,5,5
+A0407,2025-04-17,Afternoon,Clear,Dry,Bengaluru,1,2,4
+A0408,2025-12-27,Night,Rain,Wet,Tumakuru,2,1,3
+A0409,2025-07-02,Afternoon,Rain,Wet,Tumakuru,2,1,6
+A0410,2025-08-20,Evening,Fog,Wet,Mandya,1,2,1
+A0411,2025-01-07,Night,Cloudy,Under Construction,Mysuru,2,4,5
+A0412,2025-12-18,Evening,Cloudy,Dry,Hassan,3,1,0
+A0413,2025-02-03,Morning,Cloudy,Dry,Mysuru,1,3,1
+A0414,2025-01-22,Afternoon,Clear,Under Construction,Mandya,4,4,0
+A0415,2025-07-15,Night,Clear,Dry,Mysuru,3,3,7
+A0416,2025-03-18,Night,Rain,Wet,Tumakuru,4,4,8
+A0417,2025-09-03,Night,Clear,Dry,Mandya,2,5,3
+A0418,2025-11-19,Evening,Cloudy,Under Construction,Tumakuru,4,5,7
+A0419,2025-06-26,Evening,Rain,Wet,Mysuru,1,3,3
+A0420,2025-01-16,Morning,Clear,Under Construction,Hassan,3,5,3
+A0421,2025-03-23,Night,Clear,Dry,Hassan,1,2,6
+A0422,2025-07-01,Morning,Clear,Dry,Tumakuru,1,3,2
+A0423,2025-10-16,Morning,Cloudy,Wet,Mandya,3,2,7
+A0424,2025-01-20,Night,Clear,Dry,Bengaluru,4,1,5
+A0425,2025-11-11,Morning,Cloudy,Dry,Mysuru,3,1,0
+A0426,2025-03-17,Evening,Fog,Dry,Bengaluru,3,1,5
+A0427,2025-12-27,Night,Clear,Dry,Tumakuru,3,2,2
+A0428,2025-08-12,Evening,Snow,Wet,Mysuru,3,2,2
+A0429,2025-07-13,Morning,Fog,Wet,Mysuru,1,5,6
+A0430,2025-10-18,Night,Clear,Dry,Hassan,2,5,1
+A0431,2025-09-12,Night,Clear,Dry,Tumakuru,3,2,1
+A0432,2025-12-29,Night,Rain,Icy,Mandya,1,3,3
+A0433,2025-05-08,Night,Clear,Dry,Bengaluru,1,1,6
+A0434,2025-08-13,Night,Clear,Dry,Mandya,4,4,5
+A0435,2025-10-07,Afternoon,Clear,Dry,Hassan,2,2,7
+A0436,2025-02-07,Night,Clear,Dry,Bengaluru,1,3,2
+A0437,2025-07-12,Morning,Fog,Wet,Bengaluru,3,5,7
+A0438,2025-12-27,Night,Clear,Dry,Hassan,4,2,0
+A0439,2025-02-21,Morning,Clear,Dry,Hassan,3,3,4
+A0440,2025-05-02,Night,Clear,Dry,Mandya,2,1,5
+A0441,2025-01-02,Afternoon,Clear,Wet,Hassan,4,2,1
+A0442,2025-01-14,Morning,Clear,Dry,Bengaluru,4,1,4
+A0443,2025-07-23,Afternoon,Rain,Wet,Bengaluru,4,2,5
+A0444,2025-07-15,Morning,Clear,Dry,Mandya,4,3,3
+A0445,2025-05-18,Evening,Clear,Wet,Bengaluru,1,3,8
+A0446,2025-07-31,Evening,Clear,Dry,Mandya,4,5,7
+A0447,2025-10-21,Morning,Rain,Dry,Bengaluru,2,1,7
+A0448,2025-03-30,Morning,Snow,Icy,Mysuru,1,4,1
+A0449,2025-12-16,Afternoon,Clear,Wet,Mysuru,3,3,1
+A0450,2025-02-14,Afternoon,Rain,Wet,Tumakuru,4,1,8
+A0451,2025-08-03,Night,Clear,Dry,Hassan,1,1,1
+A0452,2025-05-27,Evening,Cloudy,Icy,Tumakuru,4,4,7
+A0453,2025-01-20,Morning,Clear,Dry,Hassan,4,1,6
+A0454,2025-06-19,Night,Clear,Wet,Tumakuru,3,1,5
+A0455,2025-06-05,Morning,Clear,Dry,Bengaluru,2,2,4
+A0456,2025-08-15,Morning,Clear,Dry,Bengaluru,2,4,3
+A0457,2025-07-28,Night,Rain,Wet,Tumakuru,1,5,2
+A0458,2025-02-03,Morning,Fog,Wet,Hassan,1,2,3
+A0459,2025-04-13,Night,Clear,Dry,Tumakuru,2,3,5
+A0460,2025-08-26,Afternoon,Clear,Under Construction,Bengaluru,2,3,7
+A0461,2025-11-01,Afternoon,Clear,Icy,Hassan,3,3,2
+A0462,2025-05-13,Night,Cloudy,Dry,Bengaluru,4,1,2
+A0463,2025-10-20,Morning,Cloudy,Dry,Mysuru,3,4,8
+A0464,2025-01-11,Night,Clear,Under Construction,Mysuru,1,2,4
+A0465,2025-11-08,Morning,Fog,Wet,Tumakuru,4,4,5
+A0466,2025-08-24,Morning,Clear,Dry,Hassan,4,5,1
+A0467,2025-01-04,Afternoon,Snow,Under Construction,Tumakuru,3,3,1
+A0468,2025-09-04,Night,Clear,Dry,Tumakuru,3,3,4
+A0469,2025-04-07,Night,Rain,Wet,Bengaluru,4,3,2
+A0470,2025-01-14,Evening,Rain,Wet,Mandya,4,4,0
+A0471,2025-10-26,Night,Snow,Icy,Tumakuru,2,5,7
+A0472,2025-12-10,Morning,Rain,Icy,Hassan,2,3,1
+A0473,2025-08-30,Night,Fog,Wet,Hassan,2,3,1
+A0474,2025-04-24,Morning,Clear,Icy,Mandya,3,3,4
+A0475,2025-10-27,Morning,Rain,Dry,Bengaluru,1,4,3
+A0476,2025-09-14,Night,Cloudy,Dry,Tumakuru,4,1,2
+A0477,2025-03-12,Morning,Clear,Under Construction,Mandya,2,3,2
+A0478,2025-02-11,Afternoon,Clear,Under Construction,Tumakuru,1,1,7
+A0479,2025-05-21,Morning,Fog,Dry,Mysuru,4,1,2
+A0480,2025-11-11,Afternoon,Rain,Wet,Mandya,4,1,0
+A0481,2025-10-01,Morning,Fog,Under Construction,Tumakuru,2,1,0
+A0482,2025-11-17,Night,Clear,Dry,Tumakuru,3,2,1
+A0483,2025-07-16,Afternoon,Rain,Dry,Bengaluru,3,3,7
+A0484,2025-09-24,Evening,Rain,Wet,Mysuru,3,4,5
+A0485,2025-04-07,Morning,Cloudy,Under Construction,Mandya,1,2,3
+A0486,2025-03-09,Morning,Fog,Wet,Mysuru,1,3,0
+A0487,2025-07-12,Evening,Clear,Dry,Bengaluru,1,1,0
+A0488,2025-01-25,Night,Clear,Dry,Bengaluru,3,4,2
+A0489,2025-04-16,Night,Rain,Dry,Mandya,1,5,4
+A0490,2025-11-15,Evening,Fog,Wet,Bengaluru,1,3,1
+A0491,2025-02-24,Afternoon,Clear,Dry,Tumakuru,2,3,6
+A0492,2025-06-01,Morning,Clear,Dry,Mysuru,4,3,3
+A0493,2025-01-02,Night,Rain,Under Construction,Hassan,4,2,1
+A0494,2025-09-19,Night,Fog,Dry,Tumakuru,2,4,4
+A0495,2025-05-16,Afternoon,Clear,Wet,Bengaluru,3,3,5
+A0496,2025-08-07,Night,Clear,Icy,Bengaluru,1,2,2
+A0497,2025-06-18,Morning,Cloudy,Under Construction,Tumakuru,1,3,5
+A0498,2025-04-04,Night,Clear,Under Construction,Tumakuru,4,4,6
+A0499,2025-11-29,Morning,Clear,Dry,Bengaluru,2,1,6
+A0500,2025-10-30,Afternoon,Cloudy,Dry,Mysuru,4,3,0
