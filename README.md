@@ -166,24 +166,3 @@ This project demonstrates fundamental Data Science skills, including:
 
 The project provides practical experience in analyzing traffic accident information using Python.
 
----
-
-## 👩‍💻 Author
-
-**Deekshitha HN**
-
-Data Science Intern  
-SkillCraft Technology
-```
-
-### Step 4: Commit changes
-
-Use this commit message:
-
-```text
-Complete Task 4 - Traffic Accident Data Analysis
-```
-
-Select **Commit directly to the main branch** → Click **Commit changes** ✅
-
-Your Task 4 README will then be structured with headings, tables, bullet points, and code blocks.
