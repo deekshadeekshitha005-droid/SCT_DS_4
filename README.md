@@ -53,7 +53,7 @@ The dataset contains the following information:
 
 ---
 
-## ⚙️ Methodology
+## ⚙️ MethodologY
 
 1. Loaded the traffic accident dataset using Pandas.
 2. Inspected the dataset structure and information.
